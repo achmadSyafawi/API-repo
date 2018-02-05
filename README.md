@@ -1,2 +1,2 @@
-# API-repo
-uji coba pull and push repo
+# assesment-test
+Repository berikut digunakan dalam rangka mengikuti Binar Career Hub dan masuk pada tahap Assesment Test
